@@ -1,1 +1,391 @@
-
+[
+    {
+        "nama": "Alfian Yunarto",
+        "username": "alfian",
+        "password": "$2y$10$OSTdSJCI91n4j179kBk5EOa4kRrxcA7q7zRU.ypel\/ez8f3yBuG0.",
+        "role": "user",
+        "jabatan": [
+            "PJ Seksi Pendidikan dan Kaderisasi"
+        ],
+        "foto": null
+    },
+    {
+        "nama": "Anggie Wahyu Setiawan",
+        "username": "anggie",
+        "password": "$2y$10$8ApqZj0BXn\/U0lwOgoLtcO7cRLeDl3duNngMDm9C\/G8XBYbnv65Ki",
+        "role": "user",
+        "jabatan": [
+            "Seksi Perkap dan Lingkup"
+        ],
+        "foto": null
+    },
+    {
+        "nama": "Annas Nur Yunianto",
+        "username": "annas",
+        "password": "$2y$10$W2xD1UrUxYSkUjy\/2GyDkewxc9aAZXnOmeE\/qOlvAbeMvpyWI\/6Vq",
+        "role": "user",
+        "jabatan": [
+            "PJ Seksi Sosial dan Kemasyarakatan"
+        ],
+        "foto": null
+    },
+    {
+        "nama": "Anta Wibawa",
+        "username": "anta",
+        "password": "$2y$10$eVZ\/SY4aNSzieKXHgvj1S.NCZYx.7C5ht\/aimDdXpzbPgajg1eX76",
+        "role": "user",
+        "jabatan": [
+            "Anggota PERMADI"
+        ],
+        "foto": null
+    },
+    {
+        "nama": "Ardian Eka",
+        "username": "ardian",
+        "password": "$2y$10$5lHPAeZZ6w.bMlC8frdfQuQ9gsXRhiz.1GCqebbdyTRd\/V6xGnTQy",
+        "role": "user",
+        "jabatan": [
+            "PJ Seksi Seni Budaya dan Olahraga"
+        ],
+        "foto": null
+    },
+    {
+        "nama": "Arlen Dharma Saputra",
+        "username": "arlen",
+        "password": "$2y$10$v40uJ.fWLK6wygznTkhqWe7k62J7nOky2x8YEPKCr2H3z3GkQXUzW",
+        "role": "user",
+        "jabatan": [
+            "Seksi Sosial dan Kemasyarakatan"
+        ],
+        "foto": null
+    },
+    {
+        "nama": "Aryandaru Rizki Kinasih",
+        "username": "aryandaru",
+        "password": "$2y$10$JvT54fr6bS4fDzuGjBuO3uq.yRrqgbrtss7njlxentXeL23mUluQu",
+        "role": "user",
+        "jabatan": [
+            "Sekretaris 1"
+        ],
+        "foto": "aryandaru.jpg"
+    },
+    {
+        "nama": "Astika Rofiqul Ismi",
+        "username": "astika",
+        "password": "$2y$10$p6zUi.nvMR672SR.OmiCXe0U3I4MTQGUDBWbTNovYjKkQSib40G2.",
+        "role": "user",
+        "jabatan": [
+            "Seksi Keputrian"
+        ],
+        "foto": null
+    },
+    {
+        "nama": "Ayla Azzura",
+        "username": "ayla",
+        "password": "$2y$10$zcTWoM3Hmi\/EdEaaNWlf1Odfpx\/qGWcuaLUoev6TBwhbKIBt6vVbe",
+        "role": "user",
+        "jabatan": [
+            "Sekretaris 2",
+            "Seksi Keputrian"
+        ],
+        "foto": "ayla.jpg"
+    },
+    {
+        "nama": "Bahtiar Rifai",
+        "username": "bahtiar",
+        "password": "$2y$10$Jl0CvdxiRwGtsanMDzIz8uGWxwOvGtFR8uYV7\/tadZcsLIQUWMaei",
+        "role": "user",
+        "jabatan": [
+            "Seksi Sosial dan Kemasyarakatan"
+        ],
+        "foto": null
+    },
+    {
+        "nama": "Dwi Ady Cahyanto",
+        "username": "ady",
+        "password": "$2y$10$Z1drJUnimgbW2ORQ1DlPxeQRpsAFUeA2Re5qkf1C6grXb9Aw6bCKG",
+        "role": "user",
+        "jabatan": [
+            "PJ Seksi Perkap dan Lingkup"
+        ],
+        "foto": null
+    },
+    {
+        "nama": "Eka Wahyu Kristyanto",
+        "username": "eka",
+        "password": "$2y$10$EMkyY9wOkExe9.2Gkp57S.mbiNuyW.17mLXmqzKm2QhSE.Do0H\/cu",
+        "role": "user",
+        "jabatan": [
+            "Anggota PERMADI"
+        ],
+        "foto": "eka.jpg"
+    },
+    {
+        "nama": "Hasna Hanifah",
+        "username": "hasna",
+        "password": "$2y$10$iGzc7Yd9tJ1vmuW6ipYvieQQh68IP\/vJX4VP1Bx\/pqDqVMZq0duju",
+        "role": "user",
+        "jabatan": [
+            "Seksi Keputrian"
+        ],
+        "foto": null
+    },
+    {
+        "nama": "Henricus Rama Kurniawan",
+        "username": "henricus",
+        "password": "$2y$10$ObB9tw\/teHIy0ipOySdwd.0QybPdOCQpSUZyp0J.BccJXhwVx5ZY.",
+        "role": "user",
+        "jabatan": [
+            "Wakil Ketua"
+        ],
+        "foto": "henricus.jpg"
+    },
+    {
+        "nama": "Iriani Mar'atul Adilla",
+        "username": "iriani",
+        "password": "$2y$10$4bDFbvVnPweHjmmlfhtWZ.YL32mK4FKwIgAZIs\/tNzmsaoCjcmFCC",
+        "role": "user",
+        "jabatan": [
+            "Seksi Seni Budaya dan Olahraga",
+            "Seksi Keputrian"
+        ],
+        "foto": null
+    },
+    {
+        "nama": "Meidiana Dwi Nurlita",
+        "username": "meidiana",
+        "password": "$2y$10$qLBJWPBI3Y0l.kZuVsHaQu7I\/f\/A5zDBUMcPObpq4wL.cAjqxrVTi",
+        "role": "user",
+        "jabatan": [
+            "PJ Seksi Keputrian"
+        ],
+        "foto": "meidiana.jpg"
+    },
+    {
+        "nama": "Muhammad Saisal",
+        "username": "saisal",
+        "password": "$2y$10$TBhg5O\/ETlOmrL4EPov0JuQ96cq\/h5cgXdIf78iXbmnFmjCD4Gj3W",
+        "role": "user",
+        "jabatan": [
+            "Seksi Perkap dan Lingkup"
+        ],
+        "foto": null
+    },
+    {
+        "nama": "Muhammad Tamam Diwa Setiaji",
+        "username": "tamam",
+        "password": "$2y$10$YtEGN6YH1UuZOWTllesM3urAyhudQDJMAHt5jtXt6QiNmE0T9wNjS",
+        "role": "user",
+        "jabatan": [
+            "Seksi Seni Budaya dan Olahraga"
+        ],
+        "foto": null
+    },
+    {
+        "nama": "Nada Diwa Salsabila",
+        "username": "nada",
+        "password": "$2y$10$IQrSZvgE72ZJL5SGdBptQ.2fhdYSVbsj7y1MBUz6WA8BN.42lfLhK",
+        "role": "user",
+        "jabatan": [
+            "Seksi Pendidikan dan Kaderisasi",
+            "Seksi Keputrian"
+        ],
+        "foto": null
+    },
+    {
+        "nama": "Nafisah Khairunnisa",
+        "username": "nafisah",
+        "password": "$2y$10$Z3stoauzR9wCmWg3wEO1pOuObKBl1RH4pFdn6OdSfOPHgRK5fSAn2",
+        "role": "user",
+        "jabatan": [
+            "Seksi Seni Budaya dan Olahraga",
+            "Seksi Keputrian"
+        ],
+        "foto": null
+    },
+    {
+        "nama": "Nindita Risti Maharani",
+        "username": "nindita",
+        "password": "$2y$10$EkSAERYyyS9qcjjux50FYudwWE7bPRWZ7G5n2YveJ756YyP0KQPzW",
+        "role": "user",
+        "jabatan": [
+            "Bendahara 1",
+            "Seksi Keputrian"
+        ],
+        "foto": null
+    },
+    {
+        "nama": "Nuzuli Arifianto",
+        "username": "nuzuli",
+        "password": "$2y$10$1VjDyfEOjL6s8gaouh2.nuxdkEQAep.e9ToxyvstqRA0KiLxWK2Ga",
+        "role": "user",
+        "jabatan": [
+            "Ketua"
+        ],
+        "foto": null
+    },
+    {
+        "nama": "Rif'an Wafi Ilyasa'",
+        "username": "ilyasa",
+        "password": "$2y$10$2fyVWdkl4IeRxDdZ9wKRJetrx6Rs0uV6DSFHDJkcaN5QgA3XL6Yia",
+        "role": "user",
+        "jabatan": [
+            "Seksi Perkap dan Lingkup"
+        ],
+        "foto": "ilyasa.jpg"
+    },
+    {
+        "nama": "Silvia Nurmalita",
+        "username": "silvia",
+        "password": "$2y$10$RDF.4AI\/SvbM3g9KIKtCZuxdsf.9Y7mI37INhyneakbJPU5uPcxni",
+        "role": "user",
+        "jabatan": [
+            "Seksi Sosial dan Kemasyarakatan",
+            "Seksi Keputrian"
+        ],
+        "foto": null
+    },
+    {
+        "nama": "Syahwa Aninda Saharani",
+        "username": "syahwa",
+        "password": "$2y$10$lzjZDvQlj2bhI0WrQPE54OTFy46znzyq4tkVNv\/9GBB5HK8\/c.hwe",
+        "role": "user",
+        "jabatan": [
+            "Bendahara 2"
+        ],
+        "foto": null
+    },
+    {
+        "nama": "Tamta Hatmaka",
+        "username": "tamta",
+        "password": "$2y$10$qlsIOnHQBJk6fkZSTEn9nuk6O.ZarFT31eR\/RKJOWuc.K34NlVB6.",
+        "role": "user",
+        "jabatan": [
+            "Anggota PERMADI"
+        ],
+        "foto": null
+    },
+    {
+        "nama": "Tereina Tyas Yoanti",
+        "username": "tereina",
+        "password": "$2y$10$\/7IVcBFm3c22j7cWVjlnXO9dJ6cbt1V925J\/Wdq7PyflaAADh63WW",
+        "role": "user",
+        "jabatan": [
+            "Seksi Pendidikan dan Kaderisasi",
+            "Seksi Keputrian"
+        ],
+        "foto": null
+    },
+    {
+        "nama": "Veronika Santi Hastuti",
+        "username": "veronika",
+        "password": "$2y$10$0dgQv2bd5He6YTypUKrNxumEyfnCUfoNGmHXHkR6AVHFk12SMczoG",
+        "role": "user",
+        "jabatan": [
+            "Seksi Pendidikan dan Kaderisasi",
+            "Seksi Keputrian"
+        ],
+        "foto": null
+    },
+    {
+        "nama": "Angelina Sava Saputri",
+        "username": "angelina",
+        "password": "$2y$10$.x3ZtkHQUYN0wX\/.VlBen..9fqNGQYp2ga2.L\/1EEU31n3jX6L5qW",
+        "role": "user",
+        "jabatan": [
+            "Seksi Seni Budaya dan Olahraga",
+            "Seksi Keputrian"
+        ],
+        "foto": null
+    },
+    {
+        "nama": "Justian",
+        "username": "justian",
+        "password": "$2y$10$ga4s7lxczJhOrVPtyjc6.uQJ.S8RR61Msy3xUM1NG5Il0I.rgWZju",
+        "role": "user",
+        "jabatan": [
+            "Anggota PERMADI"
+        ],
+        "foto": null
+    },
+    {
+        "nama": "Afna Lutfia",
+        "username": "afna",
+        "password": "$2y$10$o\/yG\/4pKvkHe6Q5kZqa5AuahTkE0Ql7rRm2c\/aQ8oZ1VvI2PpRX3G",
+        "role": "user",
+        "jabatan": [
+            "Seksi Sosial dan Kemasyarakatan",
+            "Seksi Keputrian"
+        ],
+        "foto": null
+    },
+    {
+        "nama": "Lucia Wiwid Septiningsih",
+        "username": "lucia",
+        "password": "$2y$10$rgQu3O4iutiM1lXKUO.sZOA\/H8efvTqyDYI5svgX8lzhrQO5DGVtq",
+        "role": "user",
+        "jabatan": [
+            "Seksi Pendidikan dan Kaderisasi",
+            "Seksi Keputrian"
+        ],
+        "foto": null
+    },
+    {
+        "nama": "Administrator",
+        "username": "admin",
+        "password": "$2y$10$Qqz2qahQ2GY581X.ZCOwt.hLZiBeYmVyoDyWQ6xnH2NWuXFaR.i\/G",
+        "role": "admin",
+        "jabatan": [],
+        "foto": "admin.jpg"
+    },
+    {
+        "nama": "Benediktus Arya Pradipta Atmaja",
+        "username": "arya",
+        "password": "$2y$10$7bIMVJ9ftpJNtVkWWSXnf.XGuFljchMpTPh\/ksqHrkzAXLzFB\/BCC",
+        "role": "user",
+        "jabatan": [
+            "Anggota PERMADI"
+        ],
+        "foto": null
+    },
+    {
+        "nama": "M Azfar Qudsi",
+        "username": "azfar",
+        "password": "$2y$10$jtApJLrnlJ.B5SsuQbh\/YOrujKsKTso6qT0iUWbYscOrYi8XaWl1a",
+        "role": "user",
+        "jabatan": [
+            "Anggota PERMADI"
+        ],
+        "foto": null
+    },
+    {
+        "nama": "Septian Ilham Priatma",
+        "username": "ilham",
+        "password": "$2y$10$cmmue8MBy9M4FVnEGdJU7eSjbd7ZMVNq14yuJ6V9olSCfP1vBPhqe",
+        "role": "user",
+        "jabatan": [
+            "Anggota PERMADI"
+        ],
+        "foto": null
+    },
+    {
+        "nama": "Arvin Firjatullah Agraprana",
+        "username": "arvin",
+        "password": "$2y$10$FIokXMUshFRKvTr2GamP9ejGwPLeFP31drBcJ5rSSyUIVfSO2n3\/u",
+        "role": "user",
+        "jabatan": [
+            "Anggota PERMADI"
+        ],
+        "foto": null
+    },
+    {
+        "nama": "Dwi Oktafianto",
+        "username": "ian",
+        "password": "$2y$10$Moy5SEEi4eMvty.2Zg8UMuZkK825mjFLENUUZYWWzpWhzw7nLc0lK",
+        "role": "user",
+        "jabatan": [
+            "Anggota PERMADI"
+        ],
+        "foto": null
+    }
+]
