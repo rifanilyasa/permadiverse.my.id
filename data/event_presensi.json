@@ -1,1 +1,14 @@
-
+[
+    {
+        "id": "permadi_6857f262ae15d",
+        "nama": "Rapat Rutin Bulanan",
+        "tempat": "Rumah Sdri Meiva",
+        "tanggal": "2025-06-22",
+        "waktu": "19:30 WIB",
+        "durasi": "19:30 - 22:30 WIB",
+        "latitude": -7.78147473571187742180654822732321918010711669921875,
+        "longitude": 110.2700597047805928241359652020037174224853515625,
+        "radius": 100,
+        "sekretaris": "Ayla Azzura"
+    }
+]
